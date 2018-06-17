@@ -6,8 +6,19 @@ body{
     display:flex;
     flex-direction: column;
 }
-header h1{
-    justify-content: flex-end;
+
+#info{
+    
+}
+h1{
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-end;
+}
+#tag-line{
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-end;
 }
 
 #selected_works{
