@@ -1,0 +1,24 @@
+body{
+    background-color:blueviolet;
+}
+
+.flex-container{
+    display:flex;
+    flex-direction: column;
+}
+header h1{
+    justify-content: flex-end;
+}
+
+#selected_works{
+}
+
+ .work  img{
+    height:600px;
+    width:650px;
+}
+
+#logo{
+    width:50px
+
+}
